@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "836170699400",
+    "project_id": "ecoflowers-9d326",
+    "storage_bucket": "ecoflowers-9d326.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836170699400:android:2dc9155c8f9677219ac53d",
+        "android_client_info": {
+          "package_name": "com.ecoflowers.projeto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836170699400-vj82vcra2sj5il5e6pmntrir081hv54a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHm0qlRhSzshbYU1-Z0WxtZlgcjxQS1dc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836170699400-vj82vcra2sj5il5e6pmntrir081hv54a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
